@@ -6,4 +6,4 @@ Central bank : https://www.boz.zm/historical-series-of-daily-zmw-usd-exchange-ra
 1. Data Visualizations- https://plotly.com/
 2. Data Analysis- https://pandas.pydata.org/
 3. Seasonal Decomposition- https://www.statsmodels.org/stable/index.html
-4. Environment- Python Jupiter Notebook
+4. Environment- Python jupyter Notebook
